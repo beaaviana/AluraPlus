@@ -33,7 +33,7 @@ body {
     grid-template-columns: 50% 50%;
 }
 
-.container__botao {
+.container_botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
@@ -85,3 +85,13 @@ margin: 1em 0 2em 0;
 .descricao_texto {
     color: var(--cinza-secundario);
 }
+
+.secundario_botao {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container_descricao {
+    padding: 2em;
+}
+
